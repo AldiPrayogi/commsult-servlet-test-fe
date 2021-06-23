@@ -1,5 +1,15 @@
+@import '~antd/dist/antd.css';
+
 .App {
   text-align: center;
+}
+.table{
+  max-width: 50vw;
+  display: inline;
+}
+.form{
+  max-width: 50vw;
+  display: inline-block;
 }
 
 .App-logo {
